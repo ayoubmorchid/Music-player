@@ -28,7 +28,6 @@ body {
 .player__controls {
   display: flex;
   justify-content: center;
-  margin-bottom: 20px;
 }
 
 .player__button {
@@ -64,8 +63,18 @@ body {
   top: 0;
   left: 0;
   height: 100%;
-  background-color: #0074d9;
+  background-color: #a85e5e;
   width: 0%;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.padding {
+  padding-block: 20px;
 }
 
 .playlist__item {
@@ -87,6 +96,6 @@ body {
 }
 
 .playlist__item a.active-song {
-  background-color: #0074d9;
+  background-color: #a85e5e;
   color: #fff;
 }
