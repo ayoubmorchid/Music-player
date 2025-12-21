@@ -48,8 +48,8 @@ body {
 }
 
 .player__button.active {
-  background-color: #6d9ec9;
-  color: #fff;
+  background-color: #a861c9;
+  border-radius: 10px;
 }
 
 .player__progress {
