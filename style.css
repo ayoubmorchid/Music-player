@@ -41,6 +41,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 60%;
+  border-radius: 10px;
 }
 
 .player__button--pause {
@@ -49,7 +50,6 @@ body {
 
 .player__button.active {
   background-color: #a861c9;
-  border-radius: 10px;
 }
 
 .player__progress {
