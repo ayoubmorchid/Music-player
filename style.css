@@ -17,6 +17,7 @@ body {
   margin: 0 auto;    
   padding: 40px;
   background-color: #432153;
+  border-radius: 20px;
 }
 
 .title {
