@@ -97,8 +97,8 @@ body {
 }
 
 .playlist__item a:hover {
-  background-color: #a87e7e;
-  color: #ffffff;
+  background-color: #e1c5ee;
+  color: #520b6e;
 }
 
 .playlist__item a.active-song {
